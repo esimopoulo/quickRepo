@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Evan_field__c</fullName>
     <description>Evan field in master</description>
-    <externalId>true</externalId>
+    <externalId>false</externalId>
     <inlineHelpText>Evan field in master</inlineHelpText>
     <label>Evan field</label>
     <length>255</length>
